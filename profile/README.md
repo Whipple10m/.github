@@ -4,4 +4,13 @@ This site is dedicated to the preservation of code and documentation from the Wh
 
 [Kildea et al., Astroparticle Physics, 28, 2, 182-195, (2007)](https://www.sciencedirect.com/science/article/abs/pii/S0927650507000746) provide the details of the Whipple 10m system (camera, telescope, DAQ) during the period from 1997-2006, after the so-called GRANITE upgrade program. The article is also [available from its author](https://kildealab.com/publication/elsevier13/elsevier13.pdf) (last downloaded 2024-11-19). The code here comes largely from this period of time.
 
+Some of the major software components during this period were:
 
+- The high-voltage system, written by Rod Lessard at Purdue (missing from this site).
+- [The tracking controller](https://github.com/Whipple10m/Track), written by Kevin Harris at FLWO.
+- [GRANITE, the data-acquisition system](https://github.com/Whipple10m/GRANITE), written by Glenn Sembrowski at Purdue.
+- [GDF, the GRANITE data format](https://github.com/Whipple10m/GDF), written by Joachim Rose at Leeds.
+- [Quicklook](https://github.com/Whipple10m/Quicklook), the online analysis package, written by many people.
+- [canalyze](https://github.com/Whipple10m/canalyze), the Dublin/Purdue analysis package written by Rod Lessard at UCD & Purdue
+- [wuparam](https://github.com/Whipple10m/wuparam), the Washington University analysis package written by Karl Kosack at Wash U
+- [WhippleDB](https://github.com/Whipple10m/WhippleDB), the log-sheet database written by Steve Fegan at U Arizona & FLWO
