@@ -8,9 +8,9 @@ Some of the major software components during this period were:
 
 - The high-voltage system, written by Rod Lessard at Purdue (missing from this site).
 - [The tracking controller](https://github.com/Whipple10m/Track), written by Kevin Harris at FLWO.
-- [GRANITE, the data-acquisition system](https://github.com/Whipple10m/GRANITE), written by Glenn Sembrowski at Purdue.
-- [GDF, the GRANITE data format](https://github.com/Whipple10m/GDF), written by Joachim Rose at Leeds.
+- [GRANITE](https://github.com/Whipple10m/GRANITE), the data-acquisition system, written by Glenn Sembrowski at Purdue.
+- [GDF](https://github.com/Whipple10m/GDF), the GRANITE data format, written by Joachim Rose at Leeds.
 - [Quicklook](https://github.com/Whipple10m/Quicklook), the online analysis package, written by many people.
 - [canalyze](https://github.com/Whipple10m/canalyze), the Dublin/Purdue analysis package written by Rod Lessard at UCD & Purdue
 - [wuparam](https://github.com/Whipple10m/wuparam), the Washington University analysis package written by Karl Kosack at Wash U
-- [WhippleDB](https://github.com/Whipple10m/WhippleDB), the log-sheet database written by Steve Fegan at U Arizona & FLWO
+- [WhippleDB](https://github.com/Whipple10m/WhippleDB), the log-sheet database written by Steve Fegan at U. Arizona and FLWO
