@@ -4,6 +4,12 @@ This site is dedicated to the preservation of code and documentation from the Wh
 
 [Kildea et al., Astroparticle Physics, 28, 2, 182-195, (2007)](https://www.sciencedirect.com/science/article/abs/pii/S0927650507000746) provide the details of the Whipple 10m system (camera, telescope, DAQ) during the period from 1997-2006, in the so-called GRANITE era. The article is also [available from its author](https://kildealab.com/publication/elsevier13/elsevier13.pdf) (last downloaded 2024-11-19). The code here comes largely from this period of time.
 
+### Python Whipple data reader
+
+We have developped a pure Python reader of the Whipple data from the GRANITE epoch from 1994 to 2011, which was stored in `FZ` format based on the CERN `ZEBRA` system. See the [pyfzreader repository](https://github.com/Whipple10m/pyfzreader).
+
+### Online and offline software components
+
 Some of the major software components during this period were:
 
 - The high-voltage system, written by Rod Lessard at Purdue (missing from this site).
@@ -14,3 +20,7 @@ Some of the major software components during this period were:
 - [canalyze](https://github.com/Whipple10m/canalyze), the Dublin/Purdue analysis package written by Rod Lessard at UCD & Purdue
 - [wuparam](https://github.com/Whipple10m/wuparam), the Washington University analysis package written by Karl Kosack at Wash U
 - [WhippleDB](https://github.com/Whipple10m/WhippleDB), the log-sheet database written by Steve Fegan at U. Arizona and FLWO
+
+### Documentation
+
+In addition we have a [repository to host papers and documentation](https://github.com/Whipple10m/Documentation) describing the Whipple system.
