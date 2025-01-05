@@ -6,7 +6,7 @@ This site is dedicated to the preservation of code and documentation from the Wh
 
 ### Python Whipple data reader
 
-We have developped a pure Python reader of the Whipple data from the GRANITE epoch from 1994 to 2011, which was stored in `FZ` format based on the CERN `ZEBRA` system. See the [pyfzreader repository](https://github.com/Whipple10m/pyfzreader).
+We have developed a pure Python reader of the Whipple data from the GRANITE epoch from 1994 to 2011, which was stored in `FZ` format based on the CERN `ZEBRA` system. See the [pyfzreader repository](https://github.com/Whipple10m/pyfzreader).
 
 ### Online and offline software components
 
