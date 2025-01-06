@@ -7,3 +7,5 @@ TODO list
 - Read in missing logsheets from my email
 - Find other missing logsheets and read them in
 - Merge FZ scan data with logsheet
+- Upload photos
+- Search for more documentation
