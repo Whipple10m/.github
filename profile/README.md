@@ -21,6 +21,6 @@ Some of the major software components during this period were:
 - [wuparam](https://github.com/Whipple10m/wuparam), the Washington University analysis package written by Karl Kosack at Wash U
 - [WhippleDB](https://github.com/Whipple10m/WhippleDB), the log-sheet database written by Steve Fegan at U. Arizona and FLWO
 
-### Documentation
+### Papers and documentation
 
-In addition we have a [repository to host papers and documentation](https://github.com/Whipple10m/Documentation) describing the Whipple system.
+In addition we have a [repository to host papers and documentation](https://github.com/Whipple10m/Documentation) describing the Whipple system and the results of its scientific programme.
