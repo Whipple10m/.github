@@ -12,7 +12,7 @@ We have developed a pure Python reader of the Whipple data from the GRANITE epoc
 
 Some of the major software components during this period were:
 
-- The high-voltage system, written by Rod Lessard at Purdue (missing from this site).
+- [The high-voltage system](https://github.com/Whipple10m/HV), written by Rod Lessard at Purdue (missing from this site).
 - [The tracking controller](https://github.com/Whipple10m/Track), written by Kevin Harris at FLWO.
 - [Granite](https://github.com/Whipple10m/Granite), the data-acquisition system, written by Glenn Sembrowski at Purdue.
 - [GDF](https://github.com/Whipple10m/GDF), the GRANITE data format, written by Joachim Rose at Leeds.
